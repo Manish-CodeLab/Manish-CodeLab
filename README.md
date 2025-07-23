@@ -18,7 +18,7 @@
 <br />
 
 <h2 align="center" style="margin-bottom: 4px;">👋 About Me</h2>
-<hr style="border: 0.5px solid #2b6cb0; width: 180px; margin: auto auto 20px;" />
+<!-- <hr style="border: 0.5px solid #2b6cb0; width: 180px; margin: auto auto 20px;" /> -->
 
 <ul>
   <li>🎓 Currently pursuing <strong>BCA (Sem 5)</strong> at <strong>AMPICS, Ganpat University</strong>.</li>
@@ -29,7 +29,7 @@
 <br />
 
 <h2 align="center" style="margin-bottom: 4px;">🧰 My Tech Toolbox</h2>
-<hr style="border: 0.5px solid #2b6cb0; width: 180px; margin: auto auto 20px;" />
+<!-- <hr style="border: 0.5px solid #2b6cb0; width: 180px; margin: auto auto 20px;" /> -->
 
 <details open>
   <summary><strong>🎨 UI & Frontend Technologies</strong></summary>
@@ -59,7 +59,7 @@
 <br />
 
 <h2 align="center" style="margin-bottom: 4px;">📬 Get in Touch</h2>
-<hr style="border: 0.5px solid #2b6cb0; width: 180px; margin: auto auto 20px;" />
+<!-- <hr style="border: 0.5px solid #2b6cb0; width: 180px; margin: auto auto 20px;" /> -->
 
 <div align="center" style="margin-bottom: 12px;">
   <a href="#">
