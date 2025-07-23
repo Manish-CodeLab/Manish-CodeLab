@@ -14,6 +14,7 @@
   </a>
 </div>
 
+---
 
 ## 🚀 About Me
 
@@ -25,12 +26,9 @@
 
 ## 🛠️ My Tech Arsenal
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,jquery,gsap,firebase,git,github&theme=dark" alt="My Tech Stack"/>
-</div>
-
-#### 🎨 Frontend & UI Expertise
-
+<details open>
+<summary><b>🎨 Frontend & UI Expertise</b></summary>
+<br/>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -41,25 +39,28 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
 </div>
+</details>
 
-#### ⚙️ Development Tools & Platforms
-
+<details open>
+<summary><b>⚙️ Development Tools & Platforms</b></summary>
+<br/>
 <div align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
+</details>
 
 ---
 
-##  📫 Let's Connect!
+## 👋 Let's Connect!
 
 <div align="center">
   <a href="">
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6933ff?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-Updating-6933ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6933ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:manish.bayad.frontenddev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-6933ff?style=for-the-badge&logo=gmail&logoColor=white"/>
