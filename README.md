@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 Who Am I?
+## 👋 About me
 
 * 🎓 Currently pursuing **BCA (Sem 5)** at **AMPICS, Ganpat University**.
 * 💻 Passionate **Frontend Developer** focused on building **sleek and interactive interfaces**.
