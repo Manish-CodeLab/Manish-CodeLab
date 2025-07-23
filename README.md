@@ -1,33 +1,33 @@
 <h1 align="center">
-    <img
-    src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=38&duration=1800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=80&lines=Hi+there!+%F0%9F%91%8B;I'm+Manish+Bayad;Frontend+Developer;Crafting+responsive+websites;Modern+web+experiences;User-friendly+interfaces"
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=38&duration=1800&pause=1000&color=2B6CB0&center=true&vCenter=true&width=700&height=80&lines=Hey+there!+%F0%9F%91%8B;I'm+Manish+Bayad;Frontend+Developer;Crafting+responsive+websites;Modern+web+experiences;User-friendly+interfaces"
     alt="Typing SVG"
   />
 </h1>
 
 <div align="center">
   <a href="https://github.com/Manish-CodeLab">
-    <img src="https://komarev.com/ghpvc/?username=Manish-CodeLab&label=Profile%20Views&color=6933ff&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Manish-CodeLab&label=Profile%20Views&color=2b6cb0&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://github.com/Manish-CodeLab?tab=followers">
-    <img src="https://img.shields.io/github/followers/Manish-CodeLab?style=flat-square&color=6933ff" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Manish-CodeLab?style=flat-square&color=2b6cb0" alt="GitHub followers" />
   </a>
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 Who Am I?
 
-* 🎓 I'm currently pursuing **BCA (Sem 5)** from **AMPICS, Ganpat University**.
-* 💻 Passionate about **frontend development**, I specialize in crafting **intuitive and visually appealing user interfaces**.
-* 🎯 I'm constantly learning and building with **modern web technologies** to create impactful and seamless digital experiences.
+* 🎓 Currently pursuing **BCA (Sem 5)** at **AMPICS, Ganpat University**.
+* 💻 Passionate **Frontend Developer** focused on building **sleek and interactive interfaces**.
+* 🚀 Enthusiast of **cutting-edge web tech**, always eager to craft immersive digital experiences.
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🧰 My Tech Toolbox
 
 <details open>
-<summary><b>🎨 Frontend & UI Expertise</b></summary>
+<summary><b>🎨 UI & Frontend Technologies</b></summary>
 <br/>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,7 +42,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Development Tools & Platforms</b></summary>
+<summary><b>⚙️ Tools & Platforms I Use</b></summary>
 <br/>
 <div align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -53,17 +53,17 @@
 
 ---
 
-## 👋 Let's Connect!
+## 📬 Get in Touch
 
 <div align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6933ff?style=for-the-badge&logo=safari&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-2b6cb0?style=for-the-badge&logo=safari&logoColor=white"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6933ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2b6cb0?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:manish.bayad.frontenddev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-6933ff?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-2b6cb0?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
